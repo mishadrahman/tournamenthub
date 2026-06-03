@@ -1,0 +1,6 @@
+{
+  "name": "Tournament Hub",
+  "description": "A premium landing page for a mobile application called Tournament Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
