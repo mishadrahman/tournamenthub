@@ -48,7 +48,7 @@ export default function PrivacyPolicy() {
 
         <h2 className="text-2xl font-semibold text-white mt-8 mb-4">5. Contact Us</h2>
         <p>
-          If you have any questions about this Privacy Policy, please contact us at: support@tournamenthub.app
+          If you have any questions about this Privacy Policy, please contact us at: support@tournamenthub.me
         </p>
       </div>
     </div>

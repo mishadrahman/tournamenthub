@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tournamenthub.app/sitemap.xml
+Sitemap: https://tournamenthub.me/sitemap.xml

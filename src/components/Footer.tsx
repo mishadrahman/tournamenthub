@@ -17,9 +17,9 @@ export default function Footer() {
               The premier mobile platform for creating, managing, and tracking competitive events anywhere, anytime.
             </p>
             <div className="flex items-center gap-4 text-slate-400">
-              <a href="#" className="hover:text-white transition-colors p-2 bg-white/5 rounded-full"><Twitter className="w-5 h-5" /></a>
-              <a href="#" className="hover:text-white transition-colors p-2 bg-white/5 rounded-full"><Instagram className="w-5 h-5" /></a>
-              <a href="#" className="hover:text-white transition-colors p-2 bg-white/5 rounded-full"><Github className="w-5 h-5" /></a>
+              <a href="https://twitter.com/tournamenthub" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors p-2 bg-white/5 rounded-full"><Twitter className="w-5 h-5" /></a>
+              <a href="https://instagram.com/tournamenthub" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors p-2 bg-white/5 rounded-full"><Instagram className="w-5 h-5" /></a>
+              <a href="https://github.com/tournamenthub" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors p-2 bg-white/5 rounded-full"><Github className="w-5 h-5" /></a>
             </div>
           </div>
           

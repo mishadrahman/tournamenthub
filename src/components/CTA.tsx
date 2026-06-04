@@ -15,14 +15,14 @@ export default function CTA() {
             <p className="text-xl text-slate-300 mb-10">Join 500,000+ organizers managing events natively from their smartphones.</p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="#download" className="flex items-center justify-center gap-3 bg-white/10 backdrop-blur-md border border-white/10 text-white hover:bg-white/20 px-8 py-4 rounded-full font-bold transition-colors">
+              <a href="/#download" className="flex items-center justify-center gap-3 bg-white/10 backdrop-blur-md border border-white/10 text-white hover:bg-white/20 px-8 py-4 rounded-full font-bold transition-colors">
                 <Apple className="w-6 h-6" />
                 <div className="text-left">
                   <div className="text-[10px] uppercase tracking-wider opacity-80 leading-none">Download on the</div>
                   <div className="text-lg leading-none mt-1">App Store</div>
                 </div>
               </a>
-              <a href="#download" className="flex items-center justify-center gap-3 bg-cyan-500 hover:bg-cyan-400 text-slate-950 px-8 py-4 rounded-full font-bold transition-colors shadow-[0_0_20px_rgba(6,182,212,0.3)]">
+              <a href="/#download" className="flex items-center justify-center gap-3 bg-cyan-500 hover:bg-cyan-400 text-slate-950 px-8 py-4 rounded-full font-bold transition-colors shadow-[0_0_20px_rgba(6,182,212,0.3)]">
                 <Play className="w-6 h-6" />
                 <div className="text-left">
                   <div className="text-[10px] uppercase tracking-wider opacity-80 leading-none">Get it on</div>

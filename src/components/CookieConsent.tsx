@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'motion/react';
 import { ShieldAlert, Check, X } from 'lucide-react';
 
@@ -62,9 +63,9 @@ export default function CookieConsent() {
                 <p className="text-slate-400 text-sm">
                   We use cookies to analyze website traffic and optimize your website experience. 
                   By accepting our use of cookies, your data will be aggregated with all other user data. 
-                  <a href="/cookies-policy" className="text-cyan-400 hover:text-cyan-300 ml-1 underline underline-offset-2">
+                  <Link to="/cookies-policy" className="text-cyan-400 hover:text-cyan-300 ml-1 underline underline-offset-2">
                     Learn more
-                  </a>.
+                  </Link>.
                 </p>
               </div>
             </div>

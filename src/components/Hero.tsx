@@ -35,14 +35,14 @@ export default function Hero() {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="#download" className="flex items-center gap-2 px-6 py-3 bg-white/5 border border-white/10 rounded-xl hover:bg-white/10 cursor-pointer text-white transition-colors">
+              <a href="/#download" className="flex items-center gap-2 px-6 py-3 bg-white/5 border border-white/10 rounded-xl hover:bg-white/10 cursor-pointer text-white transition-colors">
                 <Apple className="w-6 h-6" />
                 <div className="flex flex-col text-left">
                   <span className="text-[10px] uppercase tracking-tighter opacity-60 leading-none">Download on</span>
                   <span className="text-sm font-bold leading-none mt-1">App Store</span>
                 </div>
               </a>
-              <a href="#download" className="flex items-center gap-2 px-6 py-3 bg-white/5 border border-white/10 rounded-xl hover:bg-white/10 cursor-pointer text-white transition-colors">
+              <a href="/#download" className="flex items-center gap-2 px-6 py-3 bg-white/5 border border-white/10 rounded-xl hover:bg-white/10 cursor-pointer text-white transition-colors">
                 <Play className="w-6 h-6" />
                 <div className="flex flex-col text-left">
                   <span className="text-[10px] uppercase tracking-tighter opacity-60 leading-none">Get it on</span>

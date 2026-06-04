@@ -41,7 +41,7 @@ export default function CookiesPolicy() {
 
         <h2 className="text-2xl font-semibold text-white mt-8 mb-4">More Information</h2>
         <p>
-          If you have any questions about this Cookies Policy, please contact us at: support@tournamenthub.app
+          If you have any questions about this Cookies Policy, please contact us at: support@tournamenthub.me
         </p>
       </div>
     </div>
