@@ -33,6 +33,8 @@ export default function Showcase() {
             <img 
               src={screen.src} 
               alt={screen.alt}
+              loading="lazy"
+              decoding="async"
               className="absolute inset-0 w-full h-full object-cover"
             />
             {/* Phone notch UI overlay element */}
